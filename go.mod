@@ -1,4 +1,4 @@
-module github.com/WesleyCh3n/restful-api
+module github.com/WesleyCh3n/restful-go-api
 
 go 1.17
 
